@@ -11,3 +11,9 @@ Install pawny with git
                      cd pawny
                      
                      pip3 install -r requirements.txt
+                     
+# Usage/Examples
+
+                     For detecting email address :
+                      
+                                  python3 epawny -e email_address -a api_key -o output.txt
