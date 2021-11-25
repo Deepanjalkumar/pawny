@@ -10,6 +10,8 @@ Install pawny with git
                      
                      cd pawny
                      
+                     source env/bin/activate
+                     
                      pip3 install -r requirements.txt
                      
 # Usage/Examples
