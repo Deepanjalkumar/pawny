@@ -5,3 +5,9 @@ Pawny is a data breach cli tool used to detect breaches related to email address
 # Installation
 
 Install pawny with git
+
+                     git clone https://github.com/Deepanjalkumar/pawny.git
+                     
+                     cd pawny
+                     
+                     pip3 install -r requirements.txt
