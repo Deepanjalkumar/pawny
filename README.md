@@ -17,3 +17,7 @@ Install pawny with git
                      For detecting email address :
                       
                                   python3 epawny -e email_address -a api_key -o output.txt
+                                  
+                     For detecting domain name :
+
+                                  python3 dpawny -e domain_name -a api_key -o output.txt
