@@ -47,7 +47,7 @@ For support, contact me over linkeding Deepanjal kumar
   
 ## API Reference
 
-- [Binaryedge](http://securitytrails.com)
+- [Binaryedge](https://binaryedge.io/)
 
   
 ## Authors
